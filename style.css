@@ -1,0 +1,15 @@
+body{
+  text-align:center;
+  font-family:Arial;
+  background:#111;
+  color:white;
+}
+
+.game{
+  margin-top:40px;
+}
+
+button{
+  padding:10px 20px;
+  font-size:20px;
+}
